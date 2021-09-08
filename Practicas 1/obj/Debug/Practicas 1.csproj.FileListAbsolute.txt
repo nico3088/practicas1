@@ -1,0 +1,7 @@
+C:\Users\nicog\source\repos\Practicas 1\Practicas 1\bin\Debug\Practicas 1.exe.config
+C:\Users\nicog\source\repos\Practicas 1\Practicas 1\bin\Debug\Practicas 1.exe
+C:\Users\nicog\source\repos\Practicas 1\Practicas 1\bin\Debug\Practicas 1.pdb
+C:\Users\nicog\source\repos\Practicas 1\Practicas 1\obj\Debug\Practicas 1.csproj.AssemblyReference.cache
+C:\Users\nicog\source\repos\Practicas 1\Practicas 1\obj\Debug\Practicas 1.csproj.CoreCompileInputs.cache
+C:\Users\nicog\source\repos\Practicas 1\Practicas 1\obj\Debug\Practicas 1.exe
+C:\Users\nicog\source\repos\Practicas 1\Practicas 1\obj\Debug\Practicas 1.pdb
